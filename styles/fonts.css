@@ -1,0 +1,29 @@
+/* AVORA brand typography */
+@font-face {
+  font-family: 'PP Eiko';
+  src: url('../assets/fonts/PPEiko-Thin.otf') format('opentype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'PP Eiko';
+  src: url('../assets/fonts/PPEiko-LightItalic.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'ABC Favorit';
+  src: url('../assets/fonts/ABCFavorit-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'ABC Favorit';
+  src: url('../assets/fonts/ABCFavorit-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}

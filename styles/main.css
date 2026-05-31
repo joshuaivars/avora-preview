@@ -152,7 +152,7 @@ a { color: inherit; text-decoration: none; }
   position: absolute; inset: 0;
   background-size: cover;
   background-position: center;
-  background-image: url('assets/photos-web/IMG_0561.jpg');
+  background-image: url('../assets/photos-web/01_madetodisconnet.jpg');
 }
 .hero__tag {
   position: absolute; bottom: 28px; right: 28px;
@@ -229,7 +229,7 @@ a { color: inherit; text-decoration: none; }
 }
 .about__media {
   aspect-ratio: 4/5;
-  background: var(--avora-sand) url('assets/photos-web/IMG_0666.jpg') center/cover;
+  background: var(--avora-sand) url('../assets/photos-web/02_theartofshowing.jpg') center/cover;
 }
 .about__copy { padding-top: 32px; }
 .about__copy p {
@@ -442,7 +442,7 @@ a { color: inherit; text-decoration: none; }
 
 .custom__media {
   aspect-ratio: 1/1.1;
-  background: url('assets/photos-web/IMG_0515.jpg') center/cover;
+  background: url('../assets/photos-web/06_yourbrandtolast.jpg') center/cover;
 }
 @media (max-width: 800px) {
   .custom__grid { grid-template-columns: 1fr; gap: 48px; }
@@ -501,7 +501,7 @@ a { color: inherit; text-decoration: none; }
   min-height: 80vh;
   display: flex; align-items: center; justify-content: center;
   text-align: center;
-  background: #2a2620 url('assets/photos-web/IMG_0589.jpg') center/cover;
+  background: #2a2620 url('../assets/photos-web/IMG_0589.jpg') center/cover;
   color: var(--avora-bone);
   padding: clamp(60px, 10vw, 140px) var(--col-pad);
   overflow: hidden;
@@ -543,7 +543,7 @@ a { color: inherit; text-decoration: none; }
 }
 .sustain__media {
   aspect-ratio: 4/5;
-  background: url('assets/photos-web/IMG_0617.jpg') center/cover;
+  background: url('../assets/photos-web/08_honestabout.jpg') center/cover;
 }
 .sustain__points {
   display: grid; grid-template-columns: 1fr 1fr; gap: 32px 28px;
